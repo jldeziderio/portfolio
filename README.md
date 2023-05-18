@@ -4,8 +4,7 @@
 Um Portfolio com informaçoes sobre mim.
 Contem informações sobre estudos, profissão e certificados.
 
-> 🚧 Projeto em constante desenvolvimento 🚧
-> 🔗 Acesso a pagina 
+> 🚧 Projeto em constante desenvolvimento 🚧 
 
 ## linguagens utilizadas
 - ``HTML``
